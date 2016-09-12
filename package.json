@@ -1,6 +1,6 @@
 {
   "name": "cut-errors",
-  "version": "0.0.3dv",
+  "version": "0.0.4dv",
   "description": "",
   "main": "./cut-errors/index.js",
   "scripts": {
